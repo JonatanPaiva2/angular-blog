@@ -1,6 +1,8 @@
 .container__small-card {
     width: 700px;
     margin-bottom: 15px;
+
+    font-family: 'Segoe UI';
 }
 
 .container__small-card-content {
